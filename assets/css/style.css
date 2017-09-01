@@ -1,0 +1,23 @@
+
+table{
+	font-family: 'VT323', monospace;
+	font-size: 24px;
+	color: #fbf585;
+	background-image: url(../images/bg.jpg);
+	/*line-height: 80%;*/
+	border:20px solid #000000;
+}
+th, td{
+	border-bottom: 10px solid #000000;
+	line-height: 100%;
+}
+.table-title{
+	color: yellow;
+}
+.table td, .table th{
+	padding: 0;
+}
+.bg{
+	/*background-color: gray;*/
+	/*background-image: url( ../images/bg.jpg);*/
+}
