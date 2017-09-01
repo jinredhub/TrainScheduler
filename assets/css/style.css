@@ -16,3 +16,13 @@ th, td{
 .table td, .table th{
 	padding: 0;
 }
+.table{
+	margin-bottom: 0;
+}
+.trainForm{
+	border: 1px solid #adadad;
+	border-radius: 15px;
+}
+form{
+	margin: 20px;
+}
