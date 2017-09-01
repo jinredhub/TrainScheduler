@@ -4,7 +4,6 @@ table{
 	font-size: 24px;
 	color: #fbf585;
 	background-image: url(../images/bg.jpg);
-	/*line-height: 80%;*/
 	border:20px solid #000000;
 }
 th, td{
@@ -16,8 +15,4 @@ th, td{
 }
 .table td, .table th{
 	padding: 0;
-}
-.bg{
-	/*background-color: gray;*/
-	/*background-image: url( ../images/bg.jpg);*/
 }
