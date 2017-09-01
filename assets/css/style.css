@@ -26,3 +26,7 @@ th, td{
 form{
 	margin: 20px;
 }
+#schedule-title{
+	text-align: center;
+	color: blue;
+}
